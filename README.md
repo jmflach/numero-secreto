@@ -5,7 +5,7 @@
 <p>Formalizando conceitos de git através do curso "Git e GitHub: compartilhando e colaborando em projetos" da Alura.</p>
 <p>Esse projeto é utilizado nos cursos de lógica de programação da Alura.</p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias Utilizadas
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
